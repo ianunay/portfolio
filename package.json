@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ianunay/portfolio#readme",
   "devDependencies": {
-    "webpack": "^1.13.0"
+    "webpack": "^3.0.0"
   }
 }
